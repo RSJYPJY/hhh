@@ -6,10 +6,12 @@
         "TYPE": {
             "description": "协议，小写的vmess或vless",
             "value": "vmess"
+            
+        },
                     "SecretPATH": {
             "description": "Websocket base Path. Set this path to an uncommon path which doesn't contain sensitive information.",
             "value": "/daa"
-        },
+
         },
         "UUID": {
             "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
